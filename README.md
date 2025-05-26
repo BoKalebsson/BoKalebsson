@@ -9,9 +9,7 @@ I will post more things about my journey, progress and projects here in the futu
 
 Feel free to reach out to me, if you have any questions!
 
-See you around!
-
-/ Bosse
+See you around! 😄
 
 
 <!--
