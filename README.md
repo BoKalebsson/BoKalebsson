@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there! 😄
+
+🌱 I’m currently studying to become a Fullstack-developer in Java! 
+
+See you around!
+
 
 <!--
 **BoKalebsson/BoKalebsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
