@@ -1,8 +1,17 @@
 ## Hi there! 😄
 
-🌱 I’m currently studying to become a Fullstack-developer in Java! 
+My name is Bosse, 41 years old, and I live in Växjö, Sweden.
+
+🌱 I’m currently studying to become a Fullstack-developer in Java, at Lexicon, in Växjö! 
+🔭 Here we will learn Java, HTML, CSS, JavaScript and much more!
+
+I will post more things about my journey, progress and projects here in the future!
+
+Feel free to reach out to me, if you have any questions!
 
 See you around!
+
+/ Bosse
 
 
 <!--
