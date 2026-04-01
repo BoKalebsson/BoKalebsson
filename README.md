@@ -1,15 +1,34 @@
 ## Hi there! 😄
 
-My name is Bosse, 41 years old, and I live in Växjö, Sweden.
+I'm **Bosse**, a Fullstack Developer based in Växjö, Sweden 🇸🇪  
 
-🌱 I’m currently studying to become a Fullstack-developer in Java, at Lexicon, in Växjö! 
-🔭 Here we will learn Java, HTML, CSS, JavaScript and much more!
+🎓 Recently graduated from a Fullstack Java Developer program at Lexicon  
+🌿 Cultivating my skills as a developer, one project at a time  
+🌱 Open to new opportunities  
 
-I will post more things about my journey, progress and projects here in the future!
+---
 
-Feel free to reach out to me, if you have any questions!
+### 🛠️ Tech Stack
+- **Backend:** Java, Spring Boot, REST APIs  
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Databases:** PostgreSQL, MySQL  
+- **Tools & Testing:** JUnit, Git, Postman  
 
-See you around! 😄
+---
+
+### 🧩 What I'm focused on
+- Building real-world fullstack applications  
+- Writing clean, maintainable code  
+- Continuing to grow as a developer every day  
+
+---
+
+### 💬 Let's connect!
+Feel free to reach out if you have opportunities, ideas, or just want to connect!
+
+---
+
+⭐ More projects and updates coming soon — stay tuned!
 
 
 <!--
